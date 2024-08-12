@@ -1,0 +1,15 @@
+artifact_uri: file://C:\kar\pipelines\mlruns/478528617975616027/58c51c24fa3f42a99ee1f7f2765c3512/artifacts
+end_time: 1720163532110
+entry_point_name: ''
+experiment_id: '478528617975616027'
+lifecycle_stage: active
+run_id: 58c51c24fa3f42a99ee1f7f2765c3512
+run_name: 2024-07-05_12-12-11_CatBoost
+run_uuid: 58c51c24fa3f42a99ee1f7f2765c3512
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720163532097
+status: 4
+tags: []
+user_id: Наргис
